@@ -136,7 +136,7 @@ Follow these steps to run the project locally:
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/scalable-flutter-architecture.git
+git clone https://github.com/My-username/scalable-flutter-architecture.git
 
 2️⃣ Navigate to the project folder
 
